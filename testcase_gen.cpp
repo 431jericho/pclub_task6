@@ -3,12 +3,6 @@
 #include <cstdio>
 using namespace std;
 
-//#ifndef ONLINE_JUDGE
-//freopen("input.in", "r", stdin);
-//freopen("output.out", "w", stdout);
-//freopen("error.out", "w", stderr);
-//#endif
-
 int rand_e(vector<int>& v)
 {
     
@@ -47,15 +41,6 @@ freopen("output.txt", "w", stdout);
 freopen("error.out", "w", stderr);
 #endif
     
-    // int n;
-    // cout << "Enter the length of the random array required " ;
-    // cin >> n;
-    // if (n>100000){
-    //     cout << "Invalid input for n " ;
-    //     return 0;
-    // }
-    // randompermute(n);
-
     int q = 10;
 
     while(q--){
