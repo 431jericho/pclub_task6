@@ -1,6 +1,6 @@
 # problem :
 Mr. 431 likes good arrays. His birthday is coming, and as he is your friend, so you want to make all the arrays he has good.
-An array A of length N is good if A[i] + A[N-1] is equal for all i.
+An array A of length N is good if A[i] + A[N-i-1] is equal for all i.
 In one operation, you can replace any number in an array with any integer.
 
 You have to make an array good in minimum number of operations due to time constraint.
